@@ -1,0 +1,17 @@
+# Compiled Java class files
+bin/
+*.class
+
+# VS Code Java workspace
+.classpath
+.project
+.settings/
+
+# Mac/Linux
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
